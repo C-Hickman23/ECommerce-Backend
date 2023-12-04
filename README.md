@@ -6,6 +6,8 @@
 
 Back end routes for an e-commerce business
 
+![Alt text](image.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -20,7 +22,10 @@ Installation/cloning available at the repository
 
 ## Usage
 
-fill in
+Boot up mysql and source the schema file then you can run _node seeds/index.js_ to seed it with basic data (optional). Then run _node server.js_ to start the backend where you can make api requests to http://localhost:3001/api
+
+Demo here:
+https://drive.google.com/file/d/1ikcLickhmM4yDDAfUQhlA5yxWCNpi87L/view?usp=sharing
 
 ## License
 
